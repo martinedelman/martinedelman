@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinedelman
-- 👀 I’m interested in coding AI and Front End Softwarhttps://www.linkedin.com/in/mart%C3%ADn-edelman-9452b81a7/
+- 👀 I’m interested in coding AI and Front End Software
 - 🌱 I’m currently at Universidad ORT Uruguay
 - 📫 How to reach me in linkedin: https://www.linkedin.com/in/mart%C3%ADn-edelman-9452b81a7/
 
